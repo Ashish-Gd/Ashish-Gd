@@ -13,5 +13,5 @@ I'm currently working on building my personal brand, automating tasks and system
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Gd&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
